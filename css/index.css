@@ -66,6 +66,9 @@ header{
     color: gray;
     font-size: 15px;
 }
+.header__menu a:hover{
+    color: #FB4A2F;
+}
 
 .my-carousel
 {
